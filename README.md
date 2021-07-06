@@ -4,7 +4,7 @@ This non-graded assignment is used just to get students linked into the CSC232 G
 
 _As suggested in the previous sentence, this is a non-graded assignment. Whether you choose to work on this or not is your perrogative. The end-goal of this assignment is to simply link you to my GitHub classroom. This will happen simply by virtue of you following the assignment link provided to you by your instructor._
 
-**Please note**: This assignment has been re-used for several semesters and as such, there may be some screen snapshots that appear different from your experience. If this descrepency creates any confusion for you, please raise an issue here: [https://github.com/msu-csc232-fa21/lab00-tools-of-the-trade/issues](https://github.com/msu-csc232-fa21/lab00-tools-of-the-trade/issues).
+**Please note**: This assignment has been re-used for several semesters and as such, there may be some screen snapshots that appear different from your experience. If this descrepency creates any confusion for you, please raise an issue here: [https://github.com/msu-csc232-fa21/lab00-intro-to-git/issues](https://github.com/msu-csc232-fa21/lab00-intro-to-git/issues).
 
 ## Goals
 
