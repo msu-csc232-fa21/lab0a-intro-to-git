@@ -61,7 +61,7 @@ Since this is the first time you'll be doing this, there are a few steps that ar
 This lab assumes (and in fact requires) that you have a GitHub account. Visit [GitHub Education](https://education.github.com/students) to get started. 
 
 1. Once you have a created a GitHub account, log into [github.com](https://github.com). 
-1. Once you are logged into GitHub, accept this assignment by visiting [https://classroom.github.com/a/5p8ia6mN](https://classroom.github.com/a/5p8ia6mN). Again, since is the first time, you'll encounter the following pages: 
+1. Once you are logged into GitHub, accept this assignment by visiting [https://classroom.github.com/a/w3Cb_Sic](https://classroom.github.com/a/w3Cb_Sic). Again, since is the first time, you'll encounter the following pages: 
 
    ![Link Your Account](./lab00a-join-classroom.png)
 
